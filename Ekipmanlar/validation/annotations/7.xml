@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>7.jpg</filename>
+	<path>C:\Users\sualp\Masaüstü\Ekipman_Detection\Ekipmanlar\train\images\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baret</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>122</ymin>
+			<xmax>736</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>
